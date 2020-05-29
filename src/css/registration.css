@@ -1,0 +1,15 @@
+.highlight{
+  color: #8E44AD;
+}
+
+.normal-font{
+  font-family: 'Cabin', sans-serif;
+}
+
+.margin-top{
+  margin-top: 10vh;
+}
+
+.error-message{
+  color: red;
+}
